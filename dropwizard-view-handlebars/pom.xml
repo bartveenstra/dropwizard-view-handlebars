@@ -15,6 +15,11 @@
             <artifactId>dropwizard-views</artifactId>
             <version>0.6.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.github.jknack</groupId>
+            <artifactId>handlebars</artifactId>
+            <version>0.6.2</version>
+        </dependency>
     </dependencies>
     
 </project>
